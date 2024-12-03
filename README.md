@@ -6,3 +6,5 @@
 2. In the terminal type:
    - npm install
    - npm run dev
+
+3. Click the local link to run the application --http://localhost:5173/
