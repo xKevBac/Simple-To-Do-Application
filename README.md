@@ -4,7 +4,8 @@
   - https://nodejs.org/en
 
 2. In the terminal type:
+   - Change directory to todoapp folder (cd todoapp)
    - npm install
    - npm run dev
 
-3. Click the local link to run the application --http://localhost:5173/
+4. Click the local link to run the application --http://localhost:5173/
